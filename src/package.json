@@ -1,0 +1,13 @@
+{
+  "name": "useselect-usage",
+  "version": "1.0.0",
+  "description": "This is the simplest downshift autocomplete I can think of...",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/6z67jvklw3",
+  "main": "index.js",
+  "dependencies": {
+    "downshift": "3.4.4",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}
