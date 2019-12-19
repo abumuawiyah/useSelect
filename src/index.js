@@ -97,7 +97,7 @@ const StyledSelectBar = styled.span`
   }
 
   &:after {
-    right: 50%;
+    right: 60%;
   }
 `;
 
